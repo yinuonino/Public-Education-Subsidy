@@ -1,2 +1,2 @@
 # Public-Education-Subsidy
-## F-HACT Education Subsidy.PDF is the finished part focus on income distribution.
+## File "F-HACT Education Subsidy.pdf" is my finished part focusing on Pareto-tailed income distribution.
